@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Svg program](https://github.com/ikolev42/SVG-program)
 
-- 🌱 I’m currently learning **I'm currently learning advanced database management, data structures, and algorithm optimization to further enhance my problem-solving skills.**
+- 🌱 I’m currently learning **advanced database management, data structures, and algorithm optimization to further enhance my problem-solving skills.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ikolev42](https://github.com/ikolev42)
 
