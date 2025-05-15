@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Kolev</h1>
 <h3 align="center">A clean, efficient, and well-documented repository showcasing my expertise in Python, SQL, and software development. Here, you'll find a collection of projects, scripts, and solutions demonstrating problem-solving skills, data handling, and scalable code design. Feel free to explore, contribute, or reach out!</h3>
 
-- 🔭 I’m currently working on [Svg program](https://github.com/ikolev42/SVG-program)
+- 🔭 I’m currently working on [AdventureWorks-Sales-Analysis](https://github.com/ikolev42/AdventureWorks-Sales-Analysis)
 
 - 🌱 I’m currently learning **advanced database management, data structures, and algorithm optimization to further enhance my problem-solving skills.**
 
