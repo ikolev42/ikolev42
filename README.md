@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ivan-kolev-018bba267/](https://www.linkedin.com/in/ivan-kolev-018bba267/)
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because the light attracts bugs!**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
