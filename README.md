@@ -43,9 +43,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
     
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-2048x2048-ruee0g3r.png" alt="swagger" width="40" height="40"/>
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
