@@ -52,7 +52,7 @@
 
 
 
-<h3 align="left">Contributions:</h3>
+<h2 align="left">Contributions:</h2>
 
 </div>
 <!-- Snake animation -->
