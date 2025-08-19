@@ -52,6 +52,7 @@
 
 
 
+<h3 align="left">Contributions:</h3>
 
 </div>
 <!-- Snake animation -->
