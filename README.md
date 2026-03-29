@@ -22,9 +22,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="45" height="45" title="MS SQL Server & SSIS"/>
   </a>
-  <a href="https://www.hubspot.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hubspot/hubspot-original.svg" alt="hubspot" width="45" height="45" title="HubSpot CRM"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" title="Python"/>
   </a>
@@ -57,6 +54,4 @@
 ---
 
 <h3 align="center">🐍 GitHub Contributions</h3>
-<div align="center">
-  <img src="https://github.com/ikolev42/ikolev42/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+
